@@ -1,0 +1,60 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 700;
+}
+
+a {
+    color: #56fcf1;
+}
+
+input {
+    background-color: #1f2833 !important;
+    color: #66fcf1 !important;
+}
+
+/* Header */
+.navbar {
+    background-color: #0b0c10;
+    color: #56fcf1;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.btn-main {
+    background-color: #66fcf1 !important;
+    color: #0b0c10 !important;
+}
+
+/* Main section */
+.main {
+    background-color: #1f2833;
+}
+
+.main-post-badges {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.main-post-badges > a {
+    display: block;
+    background-color: #0b0c10;
+    color: #66fcf1;
+    font-size: 0.8rem;
+}
+
+.main-post-content {
+    position: absolute;
+    bottom: 20px;
+    color: #66fcf1;
+}
+
+.main-post-content img {
+    border: 2px solid #66fcf1;
+}
